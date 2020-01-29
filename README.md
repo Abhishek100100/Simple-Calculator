@@ -12,7 +12,8 @@ It performs operations like addition ,substraction ,multiplication ,division , s
 
 ## Installation
 
-Use the package manager pip to install Tkinter if it is not inbuilt,.
+>Tkinter is an inbuilt package in python. 
+>Use the package manager pip to install Tkinter if not present.
 
 
 ## For running this project
