@@ -22,4 +22,4 @@ Use the package manager pip to install Tkinter if it is not inbuilt,.
 
 ## Sample image of final result
 
-![sample_image](pyGUIcalculator.jpg)
+![sample_image](sample_image.jpg)
