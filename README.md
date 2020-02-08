@@ -24,3 +24,4 @@ It performs operations like addition ,substraction ,multiplication ,division , s
 ## Sample image of final result
 
 ![sample_image](sample.jpg)
+![sample_image](Calculator2020-01-2920-59-20.gif)
